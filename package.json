@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/aiwu/hackto/issues"
   },
-  "homepage": "https://github.com/aiwu/hackto#readme"
+  "homepage": "https://github.com/aiwu/hackto#readme",
+  "dependencies": {
+    "next": "^9.0.7",
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1"
+  }
 }
