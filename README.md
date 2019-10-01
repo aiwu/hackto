@@ -1,1 +1,1 @@
-dogeknights
+dogeknights a Hacktoberfest project
