@@ -11,6 +11,9 @@ const Index = () => (
         width: '500px'
       }}
     />
+    <div>
+      This is a project made for fun, nothing serious.
+    </div>
   </div>
 )
 
