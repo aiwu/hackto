@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/aiwu/hackto#readme",
   "dependencies": {
-    "next": "^9.0.7",
+    "next": "^9.3.2",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
     "request-promise": "4.2.2",
